@@ -1,6 +1,6 @@
 # JavaScript Projects Portfolio
 
-Welcome to my JavaScript projects portfolio! This repository showcases a collection of projects developed with HTML, CSS, and JavaScript, designed to strengthen my foundational skills in JavaScript programming.
+Welcome to my JavaScript projects portfolio! This repository showcases a collection of projects developed with HTML, CSS, and JavaScript, designed to strengthen my foundational skills in JavaScript programming. Feel free to click on the video links attached in their respective folders to see a small glimpse of the projects in action!
 
 ## Projects Overview
 
